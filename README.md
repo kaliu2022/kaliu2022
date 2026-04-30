@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm Ethan Nguyen<br>A passionate fullstack developer from Northern Illinois University!
+# Hi 👋, I'm Ethan Nguyen
+A passionate fullstack developer from Northern Illinois University!
 
 
 ## 🌐 Socials:
